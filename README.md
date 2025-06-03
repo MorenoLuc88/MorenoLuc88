@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Dev-Banner.png" alt="Bienvenue sur mon profil GitHub" />
+</p>
+
 # 👋 Salut, moi c’est Luc Moreno !
 
 Développeur web en reconversion, actuellement en formation intensive chez O’clock jusqu’à juillet 2025.  
