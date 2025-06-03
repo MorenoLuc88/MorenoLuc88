@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Luc Moreno !
 
-<!--
-**MorenoLuc88/MorenoLuc88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur web en reconversion, actuellement en formation intensive chez O’clock jusqu’à juillet 2025.  
+Je suis passionné par l’innovation, l’UX, et j’aime donner vie à des idées à travers le code !
 
-Here are some ideas to get you started:
+## 🚀 Compétences principales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end** : HTML, CSS, JavaScript, Svelte
+- **Back-end** : Node.js, Express, Sequelize
+- **Base de données** : PostgreSQL
+- **Outils** : Git, GitHub, Figma, VS Code
+
+## 📂 Quelques projets
+
+*Section en construction… de nouveaux projets arrivent bientôt !*
+
+## 🎯 Objectif
+
+Je cherche un **stage en développement web** (front ou back) à partir du 21 juillet 2025 !  
+Curieux, autonome, et prêt à m’investir sur des projets ambitieux.
+
+## 📫 Contact
+
+- Email : moreno.luc88@gmail.com
+- [LinkedIn](https://linkedin.com/in/luc-moreno)
+
+---
+
+🌱 Toujours prêt à apprendre et relever de nouveaux défis !
