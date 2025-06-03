@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Dev-Banner.png" alt="Bienvenue sur mon profil GitHub" />
+  <img src="assets/Dev_Banner.png" alt="Bienvenue sur mon profil GitHub" />
 </p>
 
 # 👋 Salut, moi c’est Luc Moreno !
