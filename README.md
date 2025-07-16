@@ -16,7 +16,7 @@ Je suis passionné par l’innovation, l’UX, et j’aime donner vie à des id�
 
 ## 📂 Quelques projets
 
-*Section en construction… de nouveaux projets arrivent bientôt !*
+- [Ciné-Délices](https://github.com/MorenoLuc88/Cine_Delices)
 
 ## 🎯 Objectif
 
