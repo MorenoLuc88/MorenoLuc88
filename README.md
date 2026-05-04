@@ -16,7 +16,6 @@ Deux disciplines, une seule exigence : le détail.
 **Front-end** — React, JavaScript, HTML/CSS, Tailwind  
 **Back-end** — Node.js, Express, TypeScript  
 **Base de données** — PostgreSQL, Prisma  
-**Desktop** — Electron  
 **Outils** — Git, GitHub, Figma, VS Code
 
 ---
